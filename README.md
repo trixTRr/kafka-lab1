@@ -42,6 +42,7 @@ source venv/bin/activate
 
 <img width="350" height="291" alt="image" src="https://github.com/user-attachments/assets/2605da79-96bf-4a48-bb23-a9ec625b4dbc" />
 
+<img width="613" height="266" alt="image" src="https://github.com/user-attachments/assets/b66f10eb-988a-4c46-aec5-2657c6668912" />
 
 ## 5. Визуализирует результаты (dashboard)
 
